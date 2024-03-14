@@ -4,21 +4,32 @@
 
 ## 🎨 Características
 
-- **Crear sucursales:** Utiliza el boton agregar para completar un formulario y crear tu nueva sucursal , la cual figurara en la tabla correspondiente.
-- **Editar sucursales:** Utiliza el boton editar para completar un formulario y poder modificar los datos de la sucursal seleccionada en la tabla.
-- **Eliminar sucursales:** Utiliza el boton eliminar para poder eliminar aquella sucursal seleccionada en la tabla.
+-** Crear sucursales : ** Utiliza el botón "Agregar" para completar un formulario y crear tu nueva sucursal, la cual figurará en la tabla correspondiente.
+-** Editar sucursales : ** Utiliza el botón "Editar" para completar un formulario y poder modificar los datos de la sucursal seleccionada en la tabla.
+-** Eliminar sucursales: ** Utiliza el botón "Eliminar" para poder eliminar aquella sucursal seleccionada en la tabla.
+-** Consultar/Modificar Stock: ** Cada sucursal que se presenta en la tabla registrada, podemos seleccionarlas y consultar su stock o modificarlo. Haciendo clic en "Consultar/Modificar stock". (Solo podemos agregar stock de productos que estén registrados, y si un producto es eliminado de la tabla de productos, este mismo se elimina en todas las sucursales que contengan stock de dicho producto).
+-** Generar orden: ** Cada sucursal puede generar su propia orden sobre un producto que solicite. Seleccionas la sucursal y aprietas en el botón "Generar Orden". Se despliega un menú en el cual puedes ir seleccionando productos del lado derecho y completar una lista del lado izquierdo, aclarando por cada producto cuánto stock solicita.
+-** Crear caminos: ** Utiliza el botón "Agregar" para completar un formulario y crear una nueva conexión entre sucursales (Solo podemos crear caminos con sucursales registradas anteriormente), la cual figurará en la tabla correspondiente.
+-** Editar caminos: ** Utiliza el botón "Editar" para completar un formulario y poder modificar los datos de la ruta seleccionada en la tabla.
+-** Eliminar caminos: ** Utiliza el botón "Eliminar" para poder eliminar aquella ruta seleccionada en la tabla.
+-** Crear producto: ** Utiliza el botón "Agregar" para completar un formulario y crear un producto, la cual figurará en la tabla correspondiente.
+-** Editar producto: ** Utiliza el botón "Editar" para completar un formulario y poder modificar los datos del producto seleccionado en la tabla.
+-** Eliminar producto: ** Utiliza el botón "Eliminar" para poder eliminar aquel producto seleccionado en la tabla.
+-** Apartado órdenes: ** El apartado órdenes presenta un grafo con todas las conexiones de las sucursales, el mismo es interactivo. Luego, a la derecha podemos ver una tabla en la cual figuran las órdenes realizadas por sucursales. Seleccionando una orden podemos asignarle una ruta de entrega. Se despliega un menú y vamos a visualizar una lista de aquellas rutas que parten de las sucursales que tienen stock de ese producto solicitado.
 
+## Ejemplos de uso
+
+CREAR - EDITAR - ELIMINAR SUCURSAL
 https://github.com/FrancoArmanasco2000/SGL_RETAIL/assets/128731027/cf926586-5b1b-423a-8437-74c6ed20a204
 
-- **Consultar/Modificar Stock:** Cada sucursal que se presenta en la tabla registrada, podemos seleccionarlas y consultar su stock o modificarlo. Haciendo click en Consultar/Modificar stock
-- **Generar orden:** Cada sucursal puede generar su propia orden sobre un producto que solicite. Seleccionas la sucursal y apretas en el boton Generar Orden. Se despliega un menu en el cual vos podes ir seleccionando productos del lado derecho y completar una lista del lado izquierdo, aclarando por cada producto cuanto stock solicita.
-- **Crear caminos:** Utiliza el boton agregar para completar un formulario y crear una nueva conexion entre sucursales , la cual figurara en la tabla correspondiente.
-- **Editar caminos:** Utiliza el boton editar para completar un formulario y poder modificar los datos de la ruta seleccionada en la tabla.
-- **Eliminar caminos:** Utiliza el boton eliminar para poder eliminar aquella ruta seleccionada en la tabla.
-- **Crear producto:** Utiliza el boton agregar para completar un formulario y crear un producto , la cual figurara en la tabla correspondiente.
-- **Editar producto:** Utiliza el boton editar para completar un formulario y poder modificar los datos del producto seleccionado en la tabla.
-- **Eliminar caminos:** Utiliza el boton eliminar para poder eliminar aquel producto seleccionada en la tabla.
-- **Apartado ordenes:** El apartado ordenes presenta un grafo con todas las conexiones de las sucursales, el mismo es interactivo !. Luego a la derecha podemos ver una tabla en la cual figuran las ordenes realizadas por sucursales. Seleccionando una orden podemos asignarle una ruta de entrega. Se despliega un menu y vamos a vizualizar una lista de aquellas rutas que parten de las sucursales que tienen stock de ese producto solicitado. 
+GESTIONAR STOCK DE UNA SUCURSAL
+https://github.com/FrancoArmanasco2000/SGL_RETAIL/assets/128731027/36b37020-a80e-4a1a-8fde-906b6a49a97b
+
+GENERAR ORDEN DE UNA SUCURSAL
+https://github.com/FrancoArmanasco2000/SGL_RETAIL/assets/128731027/4de77473-db91-44f2-9410-a7844c130f01
+
+CONTROLAR MAPA DE SUCURSALES Y ASIGNAR ENVIOS A ORDENES
+https://github.com/FrancoArmanasco2000/SGL_RETAIL/assets/128731027/ca6869ff-a89d-4430-9ecd-58d76f86b791
 
 ## 🛠️ Tecnologías utilizadas
 
