@@ -24,13 +24,13 @@ https://github.com/FrancoArmanasco2000/SGL_RETAIL/assets/128731027/cf926586-5b1b
 
 
 <h5>GESTIONAR STOCK DE UNA SUCURSAL</h5>
-https://github.com/FrancoArmanasco2000/SGL_RETAIL/assets/128731027/36b37020-a80e-4a1a-8fde-906b6a49a97b
+
 
 <h5>GENERAR ORDEN DE UNA SUCURSAL</h5>
-https://github.com/FrancoArmanasco2000/SGL_RETAIL/assets/128731027/4de77473-db91-44f2-9410-a7844c130f01
+
 
 <h5>CONTROLAR MAPA DE SUCURSALES Y ASIGNAR ENVIOS A ORDENES</h5>
-https://github.com/FrancoArmanasco2000/SGL_RETAIL/assets/128731027/ca6869ff-a89d-4430-9ecd-58d76f86b791
+
 
 ## 🛠️ Tecnologías utilizadas
 
