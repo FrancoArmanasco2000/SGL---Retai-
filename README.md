@@ -19,8 +19,9 @@
 
 ## Ejemplos de uso
 
-<h1>CREAR - EDITAR - ELIMINAR SUCURSAL</h1>
+<h3>CREAR - EDITAR - ELIMINAR SUCURSAL</h3>
 https://github.com/FrancoArmanasco2000/SGL_RETAIL/assets/128731027/cf926586-5b1b-423a-8437-74c6ed20a204
+
 
 GESTIONAR STOCK DE UNA SUCURSAL
 https://github.com/FrancoArmanasco2000/SGL_RETAIL/assets/128731027/36b37020-a80e-4a1a-8fde-906b6a49a97b
